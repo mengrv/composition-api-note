@@ -40,8 +40,6 @@ export default {
 }
 ```
 
-![image-20200424095044499](/Users/rvM/Library/Application Support/typora-user-images/image-20200424095044499.png)
-
 
 
 `setup`的第二个参数为`context`是一个包含了`emit`、`attr`、`slot`等的对象。
